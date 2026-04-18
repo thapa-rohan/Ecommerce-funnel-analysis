@@ -60,7 +60,8 @@ I recommend the following product adjustments:
 OR
 
 
-<img width="2111" height="1207" alt="Screenshot 2026-04-18 at 6 04 13 PM" src="https://github.com/user-attachments/assets/76e0c41b-f4ec-4b6e-9cdb-71574535b322" />
+<img width="2111" height="1207" alt="dashboard" src="https://github.com/user-attachments/assets/03f7e546-f93a-422e-b620-8612846a25d4" />
+
 
 ## Files
 - `python/analyze_funnel.py` — funnel analysis and revenue calculation
