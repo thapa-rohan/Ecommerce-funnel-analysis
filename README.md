@@ -12,8 +12,8 @@ An e-commerce company is losing significant revenue due to low conversion rates.
 Completed purchases are essential for e-commerce revenue. Stakeholders have noticed the conversion rate is much lower than expected. Out of 90,400 visitors,
 only 452 complete a purchase — a 0.5% conversion rate. How can we determine where customers are dropping off and what product adjustments will increase conversion?
 
+<img width="1350" height="813" alt="funnel_flowchart png " src="https://github.com/user-attachments/assets/dad7f7ec-57c1-4deb-80e9-187d8c48df17" />
 
-<img width="1350" height="813" alt="Screenshot 2026-04-18 at 6 17 36 PM" src="https://github.com/user-attachments/assets/48233e47-3183-44c1-9d67-9b908f388581" />
 
 
 
