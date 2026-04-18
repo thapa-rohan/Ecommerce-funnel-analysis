@@ -12,7 +12,8 @@ An e-commerce company is losing significant revenue due to low conversion rates.
 Completed purchases are essential for e-commerce revenue. Stakeholders have noticed the conversion rate is much lower than expected. Out of 90,400 visitors,
 only 452 complete a purchase — a 0.5% conversion rate. How can we determine where customers are dropping off and what product adjustments will increase conversion?
 
-<img width="2111" height="1207" alt="Screenshot 2026-04-18 at 6 04 13 PM" src="https://github.com/user-attachments/assets/76e0c41b-f4ec-4b6e-9cdb-71574535b322" />
+
+![Funnel Flowchart](funnel_flowchart.png)
 
 
 ## Methodology
@@ -54,6 +55,11 @@ I recommend the following product adjustments:
 
 ## Dashboard
 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/rohan.thapa/viz/E-CommerceCustomerFunnelAnalysis/Dashboard1)
+
+OR
+
+
+<img width="2111" height="1207" alt="Screenshot 2026-04-18 at 6 04 13 PM" src="https://github.com/user-attachments/assets/76e0c41b-f4ec-4b6e-9cdb-71574535b322" />
 
 ## Files
 - `python/analyze_funnel.py` — funnel analysis and revenue calculation
