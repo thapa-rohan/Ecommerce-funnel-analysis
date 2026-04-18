@@ -28,7 +28,7 @@ This analysis identifies exactly where customers drop off and quantifies the rev
 Improving the Search → Payment conversion by just 10% would recover approximately **$195,850 in lost revenue**
 
 ## Dashboard
-[View Live Dashboard on Tableau Public](your-tableau-link-here)
+[View Live Dashboard on Tableau Public]((https://public.tableau.com/app/profile/rohan.thapa/viz/E-CommerceCustomerFunnelAnalysis/Dashboard1))
 
 ## Files
 - `python/analyze_funnel.py` — funnel analysis and revenue calculation
