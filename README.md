@@ -13,7 +13,8 @@ Completed purchases are essential for e-commerce revenue. Stakeholders have noti
 only 452 complete a purchase — a 0.5% conversion rate. How can we determine where customers are dropping off and what product adjustments will increase conversion?
 
 
-![Funnel Flowchart](funnel_flowchart.png)
+<img width="1350" height="813" alt="Screenshot 2026-04-18 at 6 17 36 PM" src="https://github.com/user-attachments/assets/48233e47-3183-44c1-9d67-9b908f388581" />
+
 
 
 ## Methodology
